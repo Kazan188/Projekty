@@ -4,6 +4,7 @@ var Gd,Gm:Integer;
 begin
    DetectGraph(Gd,Gm);
    InitGraph(Gd,Gm,’ ’);
+   SetColor(10);
     repeat until KeyPressed;
    CloseGraph;
 end.
