@@ -11,5 +11,3 @@ begin
     repeat until KeyPressed;
    CloseGraph;
 end.
-
-writeln('SI SPOKOJNY'):D
