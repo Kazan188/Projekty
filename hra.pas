@@ -1,6 +1,6 @@
 program nemesis;
 uses Crt;
-var 
+var z,y,x,  
 begin
    
 end.
